@@ -1,0 +1,30 @@
+body {
+  position: relative;
+  margin: 0;
+}
+
+.background_img_cont {
+  background-image: url("https://selfstoreandmore.co.uk/wp-content/uploads/2018/06/Internal-Self-Storage.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 10;
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+}
+
+.page_overflow {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(136, 136, 130, 0.4);
+  top: 0;
+  position: absolute;
+  bottom: 0;
+  z-index: 5;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+}
+
+/*# sourceMappingURL=/style.97fcb138.css.map */
